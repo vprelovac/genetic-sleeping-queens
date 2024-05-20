@@ -26,7 +26,7 @@ To run a genetic algorithm:
 
 Tune fitness, parent selection crossover and mutation in genetic_algorithm.py.
 
-Copy yhe best strategy to main.py. This is the optimal strategy the algorithm surfaced:
+Copy the best strategy to main.py. This is the optimal strategy the algorithm surfaced:
 
 ```
 best_strategy = {
