@@ -1,6 +1,8 @@
 # Genetic Sleeping Queens
 
-This is an exploration of AI strategies for card game "Sleeping Queens". Besides a heuristic strategy, I also wanted to experiment with  using genetic algorithms.
+This is an exploration of AI strategies for card game "Sleeping Queens". Beside the heuristic strategy, I also wanted to experiment with using genetic algorithms. 
+
+
 
 ## Usage
 
@@ -35,4 +37,4 @@ best_strategy = {
     }
 ```
 
-This means that the most powerful card in Sleeping Queens is... the Sleeping Potion!
+This means that the most powerful card in Sleeping Queens is... the Sleeping Potion! And that you should play Jester only as a last resort really.
